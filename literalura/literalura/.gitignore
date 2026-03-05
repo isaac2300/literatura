@@ -1,0 +1,15 @@
+# Compilación y temporales
+target/
+*.class
+.mtj.tmp/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+gen/
+
+# Sistema
+.DS_Store
+Thumbs.db
